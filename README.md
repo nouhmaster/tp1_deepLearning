@@ -54,3 +54,14 @@ j'ai compilé le modèle en utilisant l'optimiseur Adam(je l'ai pris car il éta
 la fonction de perte 'binary_crossentropy' et j'ai aussi tester avec "mean_squared_error" ainsi que "mean_absolute_error" et la métrique 'accuracy'. 
 
 j'ai également utilisé la technique d'early stopping pour éviter le surapprentissage. Le modèle a été entraîné avec les données d'entraînement en utilisant une taille de batch de 32 (au par avant a 150)  et un ensemble de validation de 10 % des données d'entraînement pour surveiller les performances.
+
+## Conclusion
+
+Les résultats obtenus sont les suivants :
+
+
+- **Train accuracy:** 81.60%
+- **Test accuracy:** 72.73%
+
+Ces résultats indiquent que le modèle a une précision satisfaisante sur les données d'entraînement, mais il y a une différence notable avec les performances sur les données de test.
+
