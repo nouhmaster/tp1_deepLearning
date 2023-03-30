@@ -1,6 +1,15 @@
 # tp1_deepLearning
 # Rapport : Prédiction du diabète chez les Indiens Pima
 
+## Install
+
+```bash
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install keras
+pip install tensorflow
+```
 ## 1. Introduction
 Dans ce projet, j'ai utilisé un réseau de neurones profonds pour prédire si un individu souffre de diabète en fonction de diverses caractéristiques médicales. 
 
